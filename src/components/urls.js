@@ -1,5 +1,5 @@
 // API endpoint URLs
-const BASE_URL = "https://king-polaris-api.vercel.app"
+const BASE_URL = "https://nemerem-polaris-a-pi.vercel.app"
 
 const urls = {
   home: "/",
